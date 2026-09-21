@@ -1,18 +1,7 @@
-# AUREA Dental
+# AUREA Dental Studio — v11
 
-Production-ready static site template for a premium dental clinic.
+Premium static website concept with a cinematic art direction, unique AUREA Method / Digital Smile Map, responsive media, motion reveals and a film-style clinic tour modal.
 
-## Deploy
-1. Upload the project to GitHub.
-2. Import the repository into Vercel.
-3. Set the production domain.
-4. Replace `example.com` in `robots.txt` and `sitemap.xml`.
-5. Connect the appointment form to the client's CRM/Telegram/email provider.
+Images use Pexels-hosted assets for this demo. Replace them with client-owned photos before commercial launch.
 
-## Structure
-- HTML pages for core clinic sections
-- responsive media system with WebP + srcset/sizes
-- `vercel.json` caching rules
-- `404.html`, `robots.txt`, `sitemap.xml`
-- basic Open Graph/SEO metadata
-- accessible form status handling
+Deploy: upload project contents to GitHub, then import the repo into Vercel.
