@@ -1,0 +1,2 @@
+
+.form-status{margin-top:14px;opacity:0;transform:translateY(4px);transition:.25s ease;font-size:.9rem}.form-status.is-visible{opacity:1;transform:none}.form-status:focus{outline:2px solid currentColor;outline-offset:4px}
