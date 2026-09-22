@@ -1,1 +1,0 @@
-AUREA Dental v12 — unified art direction, responsive media, motion system and local project architecture. External demo imagery uses Pexels URLs. Replace with client-approved/licensed media before commercial launch.
